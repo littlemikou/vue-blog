@@ -15,7 +15,8 @@ module.exports = {
               children: [
                 '/guide/'
               ]
-            }
+            },
+            '/website/'
           ]
     },
     base: '/vue-blog/'
